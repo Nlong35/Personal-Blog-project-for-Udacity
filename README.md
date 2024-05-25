@@ -1,6 +1,6 @@
 This is an Personal Blog post I created while taking FEND course with Udacity!
 
-Direction were as follows:
+Direction were as follow:
 
 In this project, you'll write code across a handful of HTML and CSS files. Note that it's very important that you plan your project before you start writing any code! Break your project down into small pieces of work and strategize your approach to each one. With these bite-sized amounts, it'll be easier to debug and fix any issues that appear.
 
